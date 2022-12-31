@@ -1,3 +1,3 @@
 # mario-kaboomjs
 
-- [Play Mario]()
+- [Play Mario](https://mario-kaboomjs.vercel.app/)
